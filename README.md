@@ -16,7 +16,7 @@ Python == 3.8 \
 opencv == 3.4.9
 
 ### Download
-1、re-train weights：yolo_weights.pth (coco)  \
+1、pre-train weights：yolo_weights.pth (coco)  \  https://pan.baidu.com/s/1c2gtQwn4KjDP8EJT0ymbdQ pswd:bc8c
 2、model.pth \
 2、Voc2012（datasets, labels, txt）
 
